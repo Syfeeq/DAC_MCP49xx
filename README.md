@@ -2,7 +2,8 @@
 
 **This version uses Soft SPI by MajenkoLibraries (https://github.com/MajenkoLibraries/SoftSPI) in order to communicate with MCP49xx chips.
 At this moment this library uses Soft SPI with both write and read features available (SDO and SDI pins are defined). Modification similar to
-the one which can be seen here https://github.com/pepaslabs/WOTinySoftSPI will be added in near future.**
+the one which can be seen here https://github.com/pepaslabs/WOTinySoftSPI was planned to be made in the future but has not been made because
+of losing a way of testing code on a real device. If I get an MCP DAC in my hands I will update this library.**
 
 Arduino library for the Microchip MCP49x1/MCP49x2 series DACs
 Thomas Backman <serenity@exscape.org>, 2012

@@ -29,7 +29,8 @@
  */
 
 /*
-  Forked by Syfeeq (Bartosz Kozłowski) in order to add Software SPI (https://github.com/MajenkoLibraries/SoftSPI) support.
+  Forked by bartoszxkozlowski (Bartosz Kozłowski) in order to add
+  Software SPI (https://github.com/MajenkoLibraries/SoftSPI) support.
   Tested on Atmega2560 with MCP4901 module.
 */
 
